@@ -48,6 +48,10 @@ To get started with the Trendifyr Store, follow these steps:
    git clone https://github.com/yourusername/trendifyr-store.git
 
 cd trendifyr-store
+
 npm install
+
+
 npm start
+
 
